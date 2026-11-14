@@ -78,6 +78,7 @@ I enjoy understanding vulnerabilities from both an attacker's and a developer's 
 I'm currently working on:
 
 - Building full-stack applications
+- Working on a **Security Monitoring & Threat Detection Platform** project.
 - Improving application security
 - Learning more about Kotlin and Android development
 - Strengthening my development workflow with CI/CD and automated testing
